@@ -10,7 +10,7 @@ public class Q01_pattern_solid_rectangle {
         for (int i=1;i<=r;i++){
             // /inner loop 
             for (int j=1;j<=c;j++){
-                System.out.print("* ");
+                System.out.print("A * ");
             }
         System.out.println(); //for new line
         }
